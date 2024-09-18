@@ -44,8 +44,4 @@ This project performs a comprehensive analysis of the Valorant game dataset from
 
 ## Contributing
 Feel free to fork the repository, submit issues, or contribute via pull requests.
-
-## License
-This project is licensed under the MIT License.
-
 ---
