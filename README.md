@@ -50,5 +50,7 @@ This project performs a comprehensive analysis of the Valorant game dataset from
    ```
 3. Run the Jupyter notebooks or Python scripts to view analysis results.
 
+4. Run the ValoPlayer'sStats.ipynb (Main file of program)
+
 ## Contributing
 Feel free to fork the repository, submit issues, or contribute via pull requests.
